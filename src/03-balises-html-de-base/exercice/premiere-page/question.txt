@@ -1,0 +1,10 @@
+
+Objectifs:
+- Expérimentation avec quelques balises HTML de base.
+
+Consignes:
+    Créer le fichier premiere-page.html
+        - Ajouter le contenu suivant en choisissant les bonnes balises pour obtenir le résultat de la maquette
+
+        - Utiliser l'image fournie dans le répertoire courant
+        - Utiliser un générateur pour le texte d'exemple: https://www.lipsum.com/

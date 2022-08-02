@@ -1,0 +1,13 @@
+
+Objectifs:
+    - Comprendre la structure des répertoires pour une application web complexe.
+
+Consignes:
+    - Créer les 3 fichiers suivants:
+        - index.html
+        - produit/index.html
+        - contact/index.html
+    - Créer les répertoires "image" nécessaires pour obtenir un classement simple à entretenir.
+    - Décompresser l'archive image.zip et classer les images correctement.
+    - Ajouter le code HTML nécessaire pour obtenir le même résultat que les maquettes.
+        - Note: La barre de menus permet la navigation entre les pages.

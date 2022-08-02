@@ -1,0 +1,9 @@
+
+Objectifs:
+- Exécuter une navigation entre différentes pages HTML en utilisant les liens HTML
+
+Consignes:
+- Créer les 2 fichiers HTML suivants et y ajouter le minimum d’informations pour qu’ils soient valides.
+    - index.html
+    - page1.html
+- Dans la page index.html, ajouter un lien permettant la navigation vers la page page1.html
