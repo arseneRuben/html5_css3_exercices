@@ -1,0 +1,6 @@
+
+Objectifs:
+    - Gestion et classement des données tabulaires
+
+Consignes:
+    - Créez un fichier premier-tableau.html en utilisant tous les balises nécessaires pour obtenir le même résultat que la maquette.

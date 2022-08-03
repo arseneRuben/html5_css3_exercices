@@ -1,0 +1,6 @@
+
+Objectifs:
+    - Gestion et classement des collections de données. (liste)
+
+Consignes:
+    - Créez un fichier premiere-liste.html en utilisant tous les balises nécessaires pour obtenir le même résultat que la maquette.
