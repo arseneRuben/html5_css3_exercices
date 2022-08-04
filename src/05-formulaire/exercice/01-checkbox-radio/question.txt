@@ -1,0 +1,6 @@
+
+Objectifs:
+    - Exercice de comparaison entre les champs radio et checkbox pour la création de formulaires.
+
+Consignes:
+    - Créez un fichier checkbox-radio.html en utilisant tous les balises nécessaires pour obtenir le même résultat que la maquette.

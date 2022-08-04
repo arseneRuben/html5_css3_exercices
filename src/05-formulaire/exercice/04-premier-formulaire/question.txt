@@ -1,0 +1,9 @@
+
+Objectifs:
+    - Création d'un formulaire complet contenu dans une balise form.
+
+Consignes:
+    - Créez un fichier premier-formulaire.html en utilisant tous les balises nécessaires pour obtenir le même résultat que la maquette.
+        - Pour la mise en forme des retours à la ligne, vous pouvez insérer chaque ligne du formulaire dans une balise <div>.
+        - Remarquez que le premier bouton radio ainsi que la première case à cocher sont sélectionnés par défaut.
+        - Le champ "Adresse" contient un exemple d'information avant que l'usager entre ses informations

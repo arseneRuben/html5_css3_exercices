@@ -1,0 +1,6 @@
+
+Objectifs:
+    - Exercice de comparaison entre les différents usages de la balise select pour la création de formulaires.
+
+Consignes:
+    - Créez un fichier select.html en utilisant tous les balises nécessaires pour obtenir le même résultat que la maquette.

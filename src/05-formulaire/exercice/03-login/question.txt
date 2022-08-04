@@ -1,0 +1,7 @@
+
+Objectifs:
+    - Création d'un formulaire de connection (login)
+
+Consignes:
+    - Créez un fichier login.html en utilisant tous les balises nécessaires pour obtenir le même résultat que la maquette.
+        - Pour la mise en forme des retours à la ligne, vous pouvez insérer chaque ligne du formulaire dans une balise <div>.
