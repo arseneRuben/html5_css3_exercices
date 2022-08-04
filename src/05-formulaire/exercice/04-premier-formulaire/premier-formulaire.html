@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>premier-formulaire</title>
+    </head>
+
+    <body>
+        <form action="test.php">
+            Civilet&eacute;<input type="radio" name="madame" id="madame"><label for="madame">Madame</label>
+            <input type="radio" name="Mademoiselle" id="Mademoiselle" checked><label
+                for="Mademoiselle">Mademoiselle</label>
+            <input type="radio" name="Monsieur" id="Monsieur"><label for="Monsieur">Monsieur</label>
+            <div><label for="name">Nom:<input type="text" name="name" id="name"></label></div>
+            <div><label for="firstname">Prenom:<input type="text" name="firstname" id="firstname"></label></div>
+            <div><label for="adress">Adresse<textarea name="adress" id="adress" cols="20" rows="4"></textarea></label>
+            </div>
+            <div><label for="postalcode">Code Postal:<input type="text" name="postalcode" id="postalcode"></label>
+                <label for="locality">Localit&eacute;:<input type="text" name="locality" id="locality"></label>
+            </div>
+            <div><label for="country">Pays:</label>
+                <select name="country" id="country">
+                    <option value="Canada">Canada</option>
+                    <option value="Cameroun">Cameroun</option>
+                    <option value="Cuba">Cuba</option>
+                </select>
+            </div>
+            <div><input type="checkbox" name="anglais" id="anglais" checked><span>Anglais</span><input type="checkbox"
+                    name="francais" id="francais"><span>francais</span><input type="checkbox" name="espagnol"
+                    id="espagnol"><span>espagnol</span></div>
+            <button>Soumettre</button>
+        </form>
+    </body>
+
+</html>
