@@ -1,0 +1,31 @@
+header, article, section, aside, nav, footer {
+    padding: 5px;
+    margin: 2px;
+}
+
+section {
+    /* display: inline-block; */
+    float: left;
+    border: 1px solid red;
+    width: 63%;
+}
+
+article {
+    border: 1px solid blue;
+}
+
+aside {
+    /* display: inline-block; */
+    float: right;
+    vertical-align: top;
+    border: 1px solid black;
+    width: 30%;
+}
+
+header, footer {
+    border: 1px solid green;
+}
+
+footer {
+    clear: both;
+}

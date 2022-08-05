@@ -1,0 +1,9 @@
+Exercice - CSS Marge
+
+Objectifs
+    - Expérimentation avec le concept d'application en cascade du langage CSS.
+    - Usage des propriétés margin et padding.
+
+Consignes
+    - Créer le fichier css/css-marge.css et ajouter le code CSS nécessaire pour obtenir le même résultat que la maquette.
+    - Ne pas modifier le HTML.

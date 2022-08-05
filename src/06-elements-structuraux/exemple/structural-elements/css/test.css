@@ -1,0 +1,11 @@
+header, footer, nav {
+	color: red;
+	
+	border-bottom-color: blue;
+	border-bottom-style: dotted;
+	
+	border-top-color: blue;
+	border-top-style: solid;
+	
+	background-color: yellow;
+}

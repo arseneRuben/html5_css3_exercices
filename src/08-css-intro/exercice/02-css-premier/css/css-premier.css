@@ -1,0 +1,23 @@
+body {
+    background-color: aliceblue;
+}
+div#sommaire {
+    border: 5px solid green;
+    width: 70%;
+    background-color: white;
+}
+h1 {
+    color: white;
+    background: red;
+    font-size: 14px;
+    border-top: 4px solid green;
+    text-align: center;
+
+}
+
+h2{
+    background: white;
+    width: 45%;
+    border-left: 4px solid red;
+    border-top: 3px solid red;
+}

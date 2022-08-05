@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Marges et Padding</title>
+    <link rel="stylesheet" type="text/css" href="css/css-premier.css">
+    <link rel="stylesheet" type="text/css" href="css/css-marge.css">
+</head>
+
+<body>
+
+    <h1>Extensible HyperText Markup Language</h1>
+    <div id="sommaire">
+
+        <h4>Sommaire</h4>
+
+        <ol>
+            <li>Le nom XHTML</li>
+            <li>XHTML, évolution de HTML</li>
+            <li>Modularisation de XHTML</li>
+            <li>Développements en cours</li>
+            <li>Document Valide XHTML
+                <ol>
+                    <li>La déclaration XML</li>
+                </ol>
+            </li>
+        </ol>
+    </div>
+
+    <p>eXtensible HyperText Markup Language, dit XHTML, est un langage de balisage
+        servant à écrire des pages pour le World Wide Web. Conçu à l'origine comme le
+        successeur d'HTML, XHTML se fonde sur la syntaxe définie par XML, plus récente,
+        mais plus exigeante que celle définie par SGML sur laquelle repose HTML : il s'agit
+        en effet de présenter un contenu affichable non seulement par les ordinateurs classiques,
+        mais également sans trop de dégradation par des PDA bien moins puissants.</p>
+
+    <h2>Le nom XHTML</h2>
+
+    <p>Comme de nombreux langages fondés sur XML, celui-ci commence par la lettre X,
+        qui représente le mot eXtensible. Ainsi le premier document décrivant officiellement
+        XHTML s'appelle XHTML™ 1.0 The Extensible HyperText Markup Language1 (« XHTML 1.0
+        Le langage de balisage hypertexte extensible »). C'est cependant l'abréviation XHTML
+        qui est une marque2 du World Wide Web Consortium (W3C) et qui est seule utilisée dans
+        les spécifications qui ont suivi la version 1.0.</p>
+
+    <h2>XHTML, évolution de HTML</h2>
+
+    <p>XHTML 1.0 reformule donc simplement HTML 4 en application de XML 1.0. La syntaxe
+        seule change, aucune fonctionnalité n'ayant été ajoutée ni retirée. La conversion
+        d'un document en HTML 4.01 conforme en XHTML 1.0 peut se faire automatiquement sans
+        perte d'information.
+    </p>
+
+    <h2>Modularisation de XHTML</h2>
+
+    <p>Les évolutions suivantes divisent le langage XHTML en modules, chacun regroupant
+        un type de fonctionnalités. Cette division est conçue pour permettre d'étendre le
+        format, ou à l'inverse d'en tirer des sous-ensembles adaptés à des contextes
+        spécifiques. Ainsi :
+    </p>
+
+    <ul>
+        <li>XHTML1.1 enrichit XHTML1.0 avec l'élément ruby permettant d'ajouter des
+            annotations aux textes écrits dans les langues idéographiques (japonais,
+            hébreu, chinois…)</li>
+        <li>XHTML BASIC est un sous-ensemble simplifié, destiné à l'adaptation des
+            contenus aux clients légers (mobiles)</li>
+    </ul>
+
+    <h2>Développements en cours</h2>
+
+    <p>Le XHTML 2.0 était en cours de développement. Il ne devait pas être compatible
+        en ascendance et en descendance, notamment à cause de l'introduction de XForms et
+        de XFrames.</p>
+
+    <p>Finalement le 2 juillet 2009 le W3C a officiellement annoncé l'abandon du
+        développement du XHTML 24 afin de se consacrer entièrement à son nouveau successeur :
+        le HTML 5.</p>
+
+    <h2>Document Valide XHTML</h2>
+
+    <p>Pour qu'un document soit valide XHTML, il doit avoir une déclaration de type
+        (DOCTYPE) et un encodage (souvent en ISO) conforme aux spécifications du W3C.</p>
+
+    <h2>La déclaration XML</h2>
+    <p>La déclaration XML n'est requise que dans quelques conditions d'encodage
+        (jeu de caractères autre qu'UTF-8 en particulier), et lorsque le document est
+        traité en tant que document XML (type de contenu application/xhtml+xml). La
+        plupart des documents XHTML 1.0 ne l'exigent donc pas. Il entraîne par ailleurs
+        dans le navigateur web Internet Explorer 6.0 un mode d'interprétation problématique
+        des Cascading Style Sheets et des scripts JavaScript. Néanmoins, la version Internet
+        Explorer 8 tend à se rapprocher des autres navigateurs et à se conformer au CSS.</p>
+
+</body>
+
+</html>
