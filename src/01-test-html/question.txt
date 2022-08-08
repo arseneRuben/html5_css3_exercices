@@ -1,0 +1,57 @@
+Exercice - Test HTML
+Revision des concepts HTML
+
+Consignes:
+    - Créer le fichier: test-html.txt
+    - Copier le questionnaire ci-dessous dans votre fichier test-html.txt
+    - Répondez aux questions sans faire de recherche
+
+
+
+1) L'attribut ID dans un document HTML ou XML (un ou plusieurs choix possibles)
+
+    [ ] Dois être référencée par un autre élément
+
+    [ ] Dois être unique dans le document
+
+    [ ] N'est plus nécessaire avec la version HTML5
+
+    [ ] Est nécessaire seulement si l’on utilise le langage JavaScript
+
+
+
+2) <span><div>a</div></span>
+
+    [ ] Valide
+
+    [ ] Invalide
+
+    Pourquoi:
+
+
+
+3) Pourquoi est-il déconseillé d'utiliser la balise HTML table pour faire de la mise en page ?
+
+    Réponse:
+
+
+
+4) Quelle est la distinction entre l'attribut value et placeholder sur les champs de formulaire ?
+
+    Réponse:
+
+
+
+5) Quelle est la distinction entre les éléments de type bloc et les éléments de type inline ?
+
+    Réponse:
+
+
+
+6) Quelle est l'utilité de la balise html nav ?
+
+    Réponse:
+
+
+
+7) Écrire en HTML un formulaire d'authentification contenant les champs Nom d'usager et Mot de passe.

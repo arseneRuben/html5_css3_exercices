@@ -1,0 +1,84 @@
+
+1) L'attribut ID dans un document HTML ou XML (un ou plusieurs choix possibles)
+
+    [ ] Dois être référencée par un autre élément
+
+    [*] Dois être unique dans le document
+
+    [ ] N'est plus nécessaire avec la version HTML5
+
+    [ ] Est nécessaire seulement si l’on utilise le langage JavaScript
+
+
+
+2) <span><div>a</div></span>
+
+    [ ] Valide
+
+    [*] Invalide
+
+    Pourquoi: Entourer un Div d'un Span est semantiquement absurde au moteur de recherhce
+
+
+
+3) Pourquoi est-il déconseillé d'utiliser la balise HTML table pour faire de la mise en page ?
+
+    Réponse: Parce que la balise table est concue pour disposer les elements
+    semantiquement proches en ligne et colones. Cette proximite ne serait pas mise en oeuvre
+    lorsqu'il serait necessaire de repositionner les elements dans des plus petites resolutions d'ecran
+
+
+
+4) Quelle est la distinction entre l'attribut value et placeholder sur les champs de formulaire ?
+
+    Réponse: Le contenu de l'attribut placeholder perd son contenu lorsque le cursur est positionne
+    dessus, contrairement a la balise value. En plus, le contenu de la balise value est celui qui sera
+    traite par le serveur apres soumission du formulaire, contrairement a celui de l'attribut placeholder.
+    En resume, l'attribut placeholder n'est qu'un contenu incitatif pour l'utilisateur.
+
+
+
+5) Quelle est la distinction entre les éléments de type bloc et les éléments de type inline ?
+
+    Réponse:
+        Les elements de type BLOC
+            - occupent par defaut la ligne entiere
+            - engendre automatiquement un passage a la ligne
+
+        Les elements de type INLINE
+            - limitent leur taille a celle de leur contenu
+            - n'engendrent pas automatiquement un passage a la ligne
+
+
+
+
+6) Quelle est l'utilité de la balise html nav ?
+
+    Réponse: Elle renseigne au moteur de recherche les liens des pages du site web.
+
+
+
+7) Écrire en HTML un formulaire d'authentification contenant les champs Nom d'usager et Mot de passe.
+<!DOCTYPE html>
+<html lang="fr">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Formulaire d'authentification</title>
+    </head>
+
+    <body>
+        <h1>Page de connexion</h1>
+        <form action="test.php">
+            <fieldset>
+                <legend>Authentification</legend>
+                <div><label for="name">Nom d'usager<input type="text" name="name" id="name"></label></div>
+                <div><label for="password">Mot de passe<input type="password" name="password" id="password"></label>
+                </div>
+            </fieldset>
+        </form>
+    </body>
+
+</html>

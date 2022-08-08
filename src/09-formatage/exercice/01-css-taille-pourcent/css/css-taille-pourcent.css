@@ -1,0 +1,14 @@
+div {
+    border: 1px solid black;
+    margin: 10px 50px 20px;
+    font:   1em "Open Sans", sans-serif;
+}
+
+div.container-50{
+    width: 50%;
+    border-right: 0em;
+}
+
+div.container-50>div {
+    border: 1px solid black;
+}
