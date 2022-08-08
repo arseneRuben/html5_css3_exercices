@@ -1,0 +1,7 @@
+Exercice - CSS font
+
+Usage de police personnalisé provenant de google https://fonts.google.com/ et usage d'une police personnalisée téléchargé et conservé dans le projet.
+
+Consignes:
+    - Écrire le HTML  dans un fichier css-font.html à la racine du répertoire.
+    - Écrire le code CSS dans un fichier externe nommé css/css-font.css, pour obtenir une présentation semblable à la maquette.

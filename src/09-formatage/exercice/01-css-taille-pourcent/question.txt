@@ -1,0 +1,6 @@
+Exercice - CSS taille pourcent
+
+Expérimentation avec les tailles en pourcentage
+
+Consignes:
+    - Écrire le code CSS dans un fichier externe nommé css/css-taille-pourcent.css, pour obtenir une présentation semblable à la maquette.

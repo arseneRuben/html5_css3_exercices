@@ -1,0 +1,9 @@
+Objectifs
+    - Expérimentation avec les différentes techniques de gestion des images d'arrière-plan.
+
+Consignes:
+    - Créer le fichier css-image-fond.html
+    - Créer le fichier css/css-image-fond.css
+    - Utiliser l'image fournit dans le répertoire image
+    - L'image ne se redimensionne pas et occupe toujours une position centrale
+    - Voir la présentation du prof pour le redimensionnement.
