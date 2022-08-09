@@ -3,12 +3,9 @@
     src: url(font/raleway_thin-webfont.woff);
 }
 
-@font-face {
-    font-family: fontGoogle;
-    src:  url('https://fonts.googleapis.com/css2?family=Black+And+White+Picture&display=swap');
-}
+
 .fontgoogle{
-    font-family: fontGoogle;
+    font-family: "Black And White Picture";
 }
 
 .fontface{

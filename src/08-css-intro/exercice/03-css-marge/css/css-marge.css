@@ -1,0 +1,31 @@
+body {
+    background-color: lightgrey;
+}
+
+body p {
+    text-align: justify;
+}
+
+h1 {
+
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 20px ;
+
+}
+
+#sommaire {
+
+    padding: 20px ;
+}
+
+#sommaire+p {
+    font-style: italic;
+    width: 75%;
+}
+
+h2 {
+
+    margin-left: 40px;
+    padding: 20px;
+}
