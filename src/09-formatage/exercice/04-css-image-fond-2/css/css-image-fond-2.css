@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+
+header, footer{
+    background-image: url("../image/nuage.jpg");
+    color: aliceblue;
+}
+
+div.conteneur {
+    margin: 10px 30px 10px 30px;
+    background-image:  url("../image/eau.jpg") ;
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: aliceblue;
+}

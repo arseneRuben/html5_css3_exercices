@@ -17,7 +17,8 @@
 
     [*] Invalide
 
-    Pourquoi: Entourer un Div d'un Span est semantiquement absurde au moteur de recherhce
+    Pourquoi: Le span limite sa largeur a son contenu alors que le Div s'etend a toute la ligne.
+    Le Div est un element de type bloc.
 
 
 
@@ -27,11 +28,13 @@
     semantiquement proches en ligne et colones. Cette proximite ne serait pas mise en oeuvre
     lorsqu'il serait necessaire de repositionner les elements dans des plus petites resolutions d'ecran
 
+    L'adaptation de la page dans les resolutions petites d'ecran necessite une reeciture du html.
+
 
 
 4) Quelle est la distinction entre l'attribut value et placeholder sur les champs de formulaire ?
 
-    Réponse: Le contenu de l'attribut placeholder perd son contenu lorsque le cursur est positionne
+    Réponse: Le contenu de l'attribut placeholder est perdu lorsque curseur est positionne
     dessus, contrairement a la balise value. En plus, le contenu de la balise value est celui qui sera
     traite par le serveur apres soumission du formulaire, contrairement a celui de l'attribut placeholder.
     En resume, l'attribut placeholder n'est qu'un contenu incitatif pour l'utilisateur.
@@ -45,9 +48,9 @@
             - occupent par defaut la ligne entiere
             - engendre automatiquement un passage a la ligne
 
-        Les elements de type INLINE
+        Les elements de type INLINE : B, I, A, SPAN
             - limitent leur taille a celle de leur contenu
-            - n'engendrent pas automatiquement un passage a la ligne
+            - n'engendrent pas necessairement un passage a la ligne
 
 
 
