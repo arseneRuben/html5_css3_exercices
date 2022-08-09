@@ -1,5 +1,19 @@
+
+
+
 body{
-    background-image: url("../image/nature.jpg");
+
     color: aliceblue;
+    background-color: black;
 }
+
+div.conteneur {
+    background-color: aliceblue;
+    background-image: url("../image/nature.jpg");
+    margin: 10px 20px 10px 20px;
+    padding: 10px 20px 10px 20px;
+}
+
+
+
 
