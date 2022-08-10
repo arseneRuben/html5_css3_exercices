@@ -1,0 +1,11 @@
+Exercice - Overflow
+
+Objectifs
+    - Expérimentation avec la propriété CSS overflow.
+
+Consignes:
+    - Créer le fichier css/overflow.css et ajouter le code CSS nécessaire pour obtenir le même résultat que la maquette.
+    - Ne pas modifier le HTML.
+    - Assurez-vous de ne pas avoir de propriété dupliqué.
+
+

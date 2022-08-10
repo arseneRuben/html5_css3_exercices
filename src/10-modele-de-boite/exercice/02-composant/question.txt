@@ -1,0 +1,8 @@
+
+Objectifs:
+    - Expérimentation avec le modèle de boite des navigateurs web.
+
+Consignes:
+    - Créer le fichier css/composant.css et ajouter le code CSS nécessaire pour obtenir le même résultat que la maquette.
+    - Utiliser seulement padding, marging, border et background-color pour faciliter la compréhension des boites
+    - Ne pas modifier le HTML.

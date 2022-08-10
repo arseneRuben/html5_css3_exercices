@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+	<meta charset="utf-8">
+	<title>Modèle de boîte</title>
+
+	<style>
+		/* width + border + padding  */
+
+		#par-defaut {
+			width: 300px;
+			background-color: red;
+			border: 10px solid black;
+			padding: 50px;
+			box-sizing: content-box;
+		}
+
+		#avec-border-box {
+			width: 300px;
+			background-color: yellow;
+			border: 10px solid blue;
+			padding: 50px;
+			box-sizing: border-box;
+		}
+	</style>
+</head>
+
+<body>
+	<h1>Modèle de boîte</h1>
+
+	<div id="par-defaut">
+		Modèle de boite par defaut
+	</div>
+
+	<div id="avec-border-box">
+		Modèle de boite avec border-box
+	</div>
+</body>
+
+</html>
