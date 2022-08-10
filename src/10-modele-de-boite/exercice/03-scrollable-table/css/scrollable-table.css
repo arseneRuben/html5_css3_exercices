@@ -1,18 +1,24 @@
 body {
     text-align: center;
 }
+table, th, td {
+    border: 0px solid black;
+  }
+
 thead,tfoot{
 
     background-color: black;
     color: aliceblue;
+}
 
+thead, tbody tr ,tfoot{
+    display: table;
+    width: 100%;
+    table-layout: fixed;/* even columns width , fix width of table too*/
 }
 
 tbody {
-    overflow-y: scroll;
-
-
-    width: 110px;
-    height: 110px;
-    overflow: scroll;
+    display: block;
+    height: 150px;
+    overflow: auto;
 }
