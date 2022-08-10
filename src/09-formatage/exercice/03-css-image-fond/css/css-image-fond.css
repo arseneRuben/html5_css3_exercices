@@ -10,6 +10,7 @@ body{
 div.conteneur {
     background-color: aliceblue;
     background-image: url("../image/nature.jpg");
+    background-attachment: fixed;
     margin: 10px 20px 10px 20px;
     padding: 10px 20px 10px 20px;
 }
