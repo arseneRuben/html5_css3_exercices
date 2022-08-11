@@ -1,0 +1,10 @@
+Exercice - css-selecteur-meme-niveau
+
+Objectifs
+    - Expérimentation avec les sélecteurs d'adjacence et de proximité.
+
+Consignes:
+    - Créer le fichier css/css-selecteur-meme-niveau.css et ajouter le code CSS nécessaire pour obtenir le même résultat que la maquette.
+    - Note: Pour sélectionner les balises <p> utiliser seulement les sélecteurs d'adjacence + et de proximité ~
+
+

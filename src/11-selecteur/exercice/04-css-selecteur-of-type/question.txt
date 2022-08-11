@@ -1,0 +1,10 @@
+Exercice - css-selecteur-of-type
+
+Objectifs
+    - Expérimentation avec les sélecteurs first-of-type et last-of-type
+
+Consignes:
+    - Créer le fichier css/css-selecteur-of-type.css et ajouter le code CSS nécessaire pour obtenir le même résultat que la maquette.
+    - Note: Pour sélectionner les balises <h> utiliser seulement les sélecteurs first-of-type et last-of-type
+
+

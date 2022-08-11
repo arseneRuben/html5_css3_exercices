@@ -1,0 +1,20 @@
+h1:last-of-type {
+    background-color: red;
+}
+
+p:first-of-type {
+    background-color: blue;
+}
+
+
+/*
+    Sans le concept de -of-type les 2 sélecteurs suivants ne s'appliqueront pas
+
+h1:last-child {
+    background-color: red;
+}
+
+p:first-child {
+    background-color: blue;
+}
+*/

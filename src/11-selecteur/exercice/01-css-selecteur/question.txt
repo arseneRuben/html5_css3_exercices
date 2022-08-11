@@ -1,0 +1,11 @@
+Exercice - css-selecteur
+
+Objectifs
+    - Expérimentation avec plusieurs sélecteurs de base.
+    - Comprendre la distinction entre les pseudosélecteurs et les sélecteurs.
+
+Consignes:
+    - Créer le fichier css/css-selecteur.css et ajouter le code CSS nécessaire pour obtenir le même résultat que la maquette.
+    - Ne pas utiliser les sélecteurs de type ou de position comme par exemple :nth-of-type(n)
+
+

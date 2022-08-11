@@ -1,24 +1,29 @@
 body {
     text-align: center;
 }
+
+table{
+    width: 300px;
+}
 table, th, td {
     border: 0px solid black;
   }
 
 thead,tfoot{
-
     background-color: black;
     color: aliceblue;
+    ;
 }
 
-thead, tbody tr ,tfoot{
+thead tr, tbody tr ,tfoot tr{
     display: table;
-    width: 100%;
     table-layout: auto;
+    width: auto;
+    text-align: center
 }
 
 tbody {
     display: block;
-    height: 150px;
+    height: 100px;
     overflow: auto;
 }

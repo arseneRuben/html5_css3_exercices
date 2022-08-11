@@ -1,0 +1,46 @@
+div {
+    border: solid black;
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+div#avec_id{
+    background-color: red;
+}
+
+div.avec_class {
+    background-color: blue;
+}
+
+div p {
+    background-color: green;
+
+}
+
+div#container_id p {
+    background-color: yellow;
+}
+
+div div p {
+  background-color: gray;
+}
+
+div+p {
+    background-color: blue;
+    color: yellow;
+    text-align: center;
+}
+
+div+p+div {
+    background-color: yellow;
+}
+
+div[data-a="valeur_1"]{
+    background-color: black;
+    color: white;
+}
+
+div[data-a="valeur_2"]{
+    background-color: white;
+    color: red;
+}

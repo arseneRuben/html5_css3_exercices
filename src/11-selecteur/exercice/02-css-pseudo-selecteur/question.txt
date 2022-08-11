@@ -1,0 +1,11 @@
+Exercice - css-pseudo-selecteur
+
+Objectifs
+    - Expérimentation avec plusieurs pseudosélecteurs de base.
+    - Comprendre la distinction entre les pseudosélecteurs et les sélecteurs.
+
+Consignes:
+    - Créer le fichier css/css-pseudo-selecteur.css et ajouter le code CSS nécessaire pour obtenir le même résultat que la maquette.
+    - Note: Voir la présentation de la maquette en classe pour comprendre l'agissement des liens
+
+

@@ -1,0 +1,141 @@
+* {
+    color: red;
+}
+
+div p {
+    color: red;
+}
+
+div>p {
+    color: red;
+}
+
+div+p {
+    color: red;
+}
+
+div~p {
+    color: red;
+}
+
+/* Sélectionne tous les balises <div> ayant un attribut title  */
+
+div[title] {
+    color: red;
+}
+
+/* Sélectionne tous les balises <input> ayant un attribut type=text */
+
+input[type=text] {
+    color: red;
+}
+
+/* Sélectionne tous les balises <a> ayant un attribut href donc la valeur débute par http */
+
+a[href^="http"] {
+    color: red;
+}
+
+/* Sélectionne tous les balises <a> ayant un attribut href donc la valeur se termine par .html */
+
+a[href$=".html"] {
+    color: red;
+}
+
+/*
+    Sélectionne tous les balises <a> ayant un attribut href contenant la valeur bbb
+    Exemple:
+        <a href="abbba">
+        <a href="http://serveur.com/repertoire/bbb/page.html">
+*/
+
+a[href*="bbb"] {
+    color: red;
+}
+
+/* Lien qui n'a pas encore été visité */
+
+a:link {
+    color: green;
+}
+
+/* Lien qui a déjà été visité */
+
+a:visited {
+    color: red;
+}
+
+/* Au survol de l'élément par la souris */
+
+a:hover {
+    color: red;
+}
+
+/* Lorsque le pointeur de la souris se trouve au dessus du lien, et que le bouton est enfoncé */
+
+a:active {
+    color: red;
+}
+
+:target {
+    color: red;
+}
+
+/* Sélectionne le premier élément li */
+
+li:first-child {
+    color: red;
+}
+
+/* Sélectionne le dernier élément li */
+
+li:last-child {
+    color: red;
+}
+
+/* Sélectionne le premier élément h2 parmi tous les autres enfants de l’élément parent */
+
+h2:first-of-type {
+    color: red;
+}
+
+/* Sélectionne le dernier élément h2 parmi tous les autres enfants de l’élément parent */
+
+h2:last-of-type {
+    color: red;
+}
+
+p {
+    color: #000;
+}
+
+h1 {
+    color: #000;
+}
+
+h2 {
+    color: #000;
+}
+
+h3 {
+    color: #000;
+}
+
+/* La déclaration précédente pourrait être remplacée par le regroupement suivant */
+
+p, h1, h2, h3 {
+    color: #000;
+}
+
+p {
+    margin-top: 2px;
+    margin-right: 3px;
+    margin-bottom: 4px;
+    margin-left: 5px;
+}
+
+/* La déclaration précédente pourrait être remplacée par le regroupement suivant */
+
+p {
+    margin: 2px 3px 4px 5px;
+}
