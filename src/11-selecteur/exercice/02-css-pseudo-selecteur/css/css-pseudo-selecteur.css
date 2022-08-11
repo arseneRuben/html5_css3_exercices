@@ -1,0 +1,16 @@
+div#collection  p:nth-last-child(1)		 {
+   background-color: blue;
+   color:white;
+}
+
+a {
+    background-color: yellow;
+}
+a:hover{
+    background-color: blue;
+    color: white;
+}
+
+:target{
+    background-color: gray;
+}
