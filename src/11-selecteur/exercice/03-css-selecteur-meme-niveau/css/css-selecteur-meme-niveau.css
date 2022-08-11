@@ -1,0 +1,15 @@
+p{
+    border: solid black;
+    margin: 10px 10px;
+}
+h1 + p{
+    background-color: red;
+}
+
+h2~p, h3~p {
+    background-color: blue;
+}
+
+p:nth-last-child(1){
+    background-color: green;
+}
