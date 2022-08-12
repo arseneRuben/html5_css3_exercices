@@ -10,6 +10,6 @@ h2~p {
     background-color: blue;
 }
 
-p:nth-last-child(1){
+h3 + p+p{
     background-color: green;
 }
