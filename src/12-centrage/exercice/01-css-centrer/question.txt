@@ -1,0 +1,8 @@
+Exercice - CSS  Centrer
+
+Objectifs:
+    - Expérimentation des techniques de centrage avec CSS2
+
+Consignes:
+    - Créer le fichier css/css-centrer.css et ajouter le code CSS nécessaire pour obtenir le même résultat que la maquette.
+    - Utiliser l'image fournie dans le répertoire de l'exercice.

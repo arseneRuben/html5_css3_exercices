@@ -1,0 +1,9 @@
+Exercice - css-mise-en-page
+
+Objectifs:
+    - Création d'une mise en page complète en utilisant les techniques de centrage
+
+Consignes:
+    - Créer le fichier css/css-mise-en-page.css et ajouter le code CSS nécessaire pour obtenir le même résultat que la maquette. - Utiliser l'image fournie dans le répertoire de l'exercice.
+    - La balise main occupe toujours 75% de la taille horizontal et être toujours centré
+    - L'image logo possède une hauteur fixe de 60px

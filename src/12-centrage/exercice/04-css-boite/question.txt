@@ -1,0 +1,10 @@
+Exercice - css-boite
+
+Objectifs:
+    - Expérimentation avec les techniques de centrage horizontal et les sélecteurs CSS
+
+Consignes:
+    - Créer le fichier css-boite.html contenant seulement des balises <div> sans class, id ou attribut.
+    - Créer le fichier css/css-boite.css et ajouter le code CSS nécessaire pour obtenir le même résultat que la maquette.
+    - Utiliser seulement les sélecteurs présentés en classe.
+    - Le résultat doit être parfaitement fluide.

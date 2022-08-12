@@ -3,6 +3,7 @@ body {
 }
 
 table{
+    margin: auto;
     width: 300px;
 }
 table, th, td {
