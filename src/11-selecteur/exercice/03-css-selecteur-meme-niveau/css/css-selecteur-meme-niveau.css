@@ -6,7 +6,7 @@ h1 + p{
     background-color: red;
 }
 
-h2~p, h3~p {
+h2~p {
     background-color: blue;
 }
 
