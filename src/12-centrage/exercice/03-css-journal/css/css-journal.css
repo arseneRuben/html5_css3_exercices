@@ -1,0 +1,7 @@
+h1,article>h2{
+    text-align: center;
+}
+
+.container>article+article>h2{
+    text-align: right;
+}
