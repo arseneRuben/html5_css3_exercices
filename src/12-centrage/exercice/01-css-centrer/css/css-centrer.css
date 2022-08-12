@@ -1,0 +1,48 @@
+
+p{
+    text-align: center;
+    margin-left: 23%;
+    margin-right: 23%;
+    margin-top: 30px;
+}
+h1, h2{
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+h1{
+    background-color: yellow;
+}
+
+h2{
+    background-color: orange;
+    display: block;
+    width: 33%;
+    margin-bottom: 40px;;
+}
+
+div#tablecell{
+    display: table-cell;
+    height: 200px;
+    vertical-align: middle;
+    background-color: red;
+}
+
+
+
+div#lineheight>p {
+    display: inline;
+
+}
+div#lineheight {
+
+    background-color: blue;
+    color: aliceblue;
+
+    width: 40%;
+    height: 50px;
+    overflow: hidden;
+
+
+}

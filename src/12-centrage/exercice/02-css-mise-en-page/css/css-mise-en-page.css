@@ -1,0 +1,30 @@
+main {
+    width: 75%;
+    margin: auto;
+    border-width:1px;
+ border-style:solid;
+ border-color:black;
+}
+
+main  h1 {
+    text-align: center;
+}
+
+nav>*{
+    height: 40px;
+    border-width:1px;
+ border-style:solid;
+ border-color:black;
+ width: auto;
+    vertical-align: middle;
+
+}
+
+nav > a {
+    padding: 10px 5px;
+
+}
+nav > img {
+    margin-right: 60px;
+
+}
