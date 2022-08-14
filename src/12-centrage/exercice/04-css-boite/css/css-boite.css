@@ -1,25 +1,31 @@
 
 
 
-div {
-    width: 30%;
-    margin: auto;
-}
+
+
+
 
 div>div{
-    width: 33%s;
-    height: 50px;
-
+    display: inline-block;
     background-color: blue;
+    width: 30%;
+    height: 60px;
+
 }
 
-div:nth-child(3){
-    margin-left: 0;
+div:nth-child(1){
+    text-align: right;
 }
 div:nth-child(2){
-    margin-left: auto;
+    text-align: center;
+}
+div:nth-child(3){
+    text-align: left;
+}
 
-}
-div:nth-child(1){
-    margin-right: 0;
-}
+
+
+
+
+
+
