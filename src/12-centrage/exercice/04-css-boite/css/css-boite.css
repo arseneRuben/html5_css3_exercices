@@ -1,9 +1,14 @@
-
+:root {
+    width: 80%;
+    margin: auto;
+}
 div>div{
     display: inline-block;
     background-color: blue;
-    width: 30%;
+    width: 33%;
     height: 60px;
+    vertical-align: top;
+
 }
 div{
     text-align: right;
