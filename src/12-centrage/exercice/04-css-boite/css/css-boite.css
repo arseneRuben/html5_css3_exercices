@@ -1,28 +1,20 @@
 
-
-
-
-
-
-
 div>div{
     display: inline-block;
     background-color: blue;
     width: 30%;
     height: 60px;
-
 }
-
-div:nth-child(1){
+div{
     text-align: right;
 }
-div:nth-child(2){
+
+div+div{
     text-align: center;
 }
-div:nth-child(3){
+div+div+div{
     text-align: left;
 }
-
 
 
 
