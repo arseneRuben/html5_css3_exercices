@@ -1,0 +1,18 @@
+#conteneur{
+     position: fixed;
+}
+#carre_vert  {
+    position:absolute;
+    top: 20px;
+    left: 20px;
+}
+#carre_rouge  {
+    position:absolute;
+    top: 60px;
+    left: 60px;
+}
+#carre_bleu  {
+    position:absolute;
+    top: 100px;
+    left: 100px;
+}
