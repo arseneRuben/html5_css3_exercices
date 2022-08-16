@@ -1,0 +1,8 @@
+Exercice - css-z-index
+
+Objectifs:
+    - Expérimentation avec le positionnement sur l'axe z
+
+Consignes:
+    - Créer le fichier css/css-z-index.css et ajouter le code CSS nécessaire pour obtenir le même résultat que la maquette.
+    - Note: Prendre connaissance du fichier css/css-z-index-base.css avant de commencer.

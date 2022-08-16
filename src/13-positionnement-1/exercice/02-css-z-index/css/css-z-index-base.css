@@ -1,0 +1,13 @@
+#conteneur > div {
+    width: 100px;
+    height: 100px;
+}
+#carre_vert {
+    background-color: green;
+}
+#carre_rouge {
+    background-color: red;
+}
+#carre_bleu {
+    background-color: blue;
+}

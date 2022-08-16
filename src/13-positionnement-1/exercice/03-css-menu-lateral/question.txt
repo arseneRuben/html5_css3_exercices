@@ -1,0 +1,10 @@
+Exercice - css-menu-lateral
+
+Objectifs:
+    - Création d'une mise en page complète en utilisant les techniques de positionnement
+
+Consignes:
+    - Créer le fichier css/css-menu-lateral.css et ajouter le code CSS nécessaire pour obtenir le même résultat que la maquette.
+    - La mise en page est parfaitement fluide.
+    - La balise nav utilise une taille fixe.
+    - Ne pas utiliser float.
