@@ -1,0 +1,10 @@
+Exercice - css-absolute-over
+
+Objectifs:
+    - Positionnement d'une galerie d'images avec gestion du survol de la souris.
+
+Consignes
+    - Créer le fichier css/css-absolute-over.css pour obtenir le même résultat que les maquettes.
+    - Utiliser les images fournies dans le répertoire image.
+    - Note: Voir la présentation de la maquette pour bien comprendre l'aspect de fluidité.
+    - La bordure et le bouton "Ajouter au panier" apparaissent sur un survol de la souris.
