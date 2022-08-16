@@ -3,14 +3,14 @@ div {
     margin: auto;
 }
 div div{
-    border: none;
+  border: none;
   position: relative;
   display: inline;
-}
+
+ }
 
 img {
     width: 120px;
-
 }
 
 img+a {
@@ -26,5 +26,5 @@ img+a {
 div div:hover{
     border: 1px solid black;
     color: white;
-    background-color: brown;
+
 }
