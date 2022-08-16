@@ -1,0 +1,32 @@
+
+nav {
+    border: 1px solid salmon;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+
+    width: 100px;
+}
+
+section {
+    margin-left: 120px;
+    border: 1px solid black;
+    height: 75px;
+    top : 52px;
+    margin-top: 5px;
+}
+
+
+
+footer {
+
+    position: fixed;
+    border: 1px solid green;
+    height: 80px;
+    bottom: 10px;
+
+    left: 10px;
+    right: 10px;;
+
+
+}
