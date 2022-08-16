@@ -1,22 +1,25 @@
+div {
+    border: 1px solid black;
+    margin: auto;
+}
 div div{
+    border: none;
   position: relative;
   display: inline;
-
 }
 
 img {
     width: 120px;
 
-
-
 }
+
 img+a {
 
     position: absolute;
     display: none;
-    top : -100px;
+    top : 0px;
     left : 5px;
-    ;
+
 
 }
 
