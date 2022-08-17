@@ -1,0 +1,8 @@
+Exercice - css-float
+
+Objectifs:
+    - Expérimentation d'une mise en page complète en utilisant la propriété float.
+
+Consignes
+    - Créer un fichier css/css-float.css pour obtenir le même résultat que la maquette.
+    - Note: Voir la présentation de la maquette pour bien comprendre l'aspect de fluidité

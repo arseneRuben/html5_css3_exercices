@@ -1,0 +1,8 @@
+Exercice - CSS thumbnail
+
+Objectifs:
+    - Création d'une galerie d'images avec mise en page fluide et défilement vertical.
+
+Consignes
+    - Créer un fichier css/css-thumbnail.css pour obtenir le même résultat que la maquette.
+    - Note: Voir la présentation de la maquette pour bien comprendre l'aspect de fluidité

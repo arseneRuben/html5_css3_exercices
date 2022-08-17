@@ -1,0 +1,7 @@
+Exercice - css-float-text
+
+Objectifs:
+    - Expérimentation avec les propriétés float et clear.
+
+Consignes
+    - Créer un fichier css/css-float-text.css pour obtenir le même résultat que la maquette.

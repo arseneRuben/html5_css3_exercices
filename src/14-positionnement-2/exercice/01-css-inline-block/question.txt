@@ -1,0 +1,8 @@
+Exercice - css-inline-block
+
+Objectifs:
+    - Changement du type de présentation d'une balise avec la propriété display.
+
+Consignes:
+    - Créer le fichier css/css-inline-block.css et ajouter le code CSS nécessaire pour obtenir le même résultat que la maquette.
+    - Ne pas utiliser float.

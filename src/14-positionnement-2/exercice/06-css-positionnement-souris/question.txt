@@ -1,0 +1,11 @@
+Exercice - css-positionnement-souris
+
+Objectifs:
+    - Positionnement d'une galerie d'images avec information associée
+
+Consignes
+    - Créer le fichier css/css-positionnement-souris.css pour obtenir le même résultat que la maquette.
+    - Utiliser les images fournies dans le répertoire image.
+    - Note: Je vous conseille l'inline-block et la correction vous sera remise en 2 versions (inline-block et float)
+    - Note: Voir la présentation de la maquette pour bien comprendre l'aspect de fluidité.
+    - Note: Le fichier maquette-aide.png peut vous aider dans votre étape d'analyse.

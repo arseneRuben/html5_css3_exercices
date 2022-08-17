@@ -1,0 +1,22 @@
+div#gallery {
+    width: 80%;
+    margin: auto;
+    border: 2px solid #000000;
+    padding: 4px 4px;
+    overflow-y: scroll;
+}
+div#gallery>div {
+    display: inline-block;
+    width: 200px;
+    margin: 6px 6px;
+    padding: 4px 4px;
+}
+
+div#gallery>div>div {
+    border: 2px solid rgb(239, 56, 56);
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}

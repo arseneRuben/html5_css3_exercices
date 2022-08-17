@@ -1,0 +1,9 @@
+Exercice - css-positionnement-formulaire
+
+Objectifs:
+    - Mise en page d'un formulaire avec aspect artistique (couleur, bordure) et technique d'alignement.
+
+Consignes
+    - Créer le fichier css/positionnement-formulaire.css pour obtenir le même résultat que la maquette.
+    - Note: Je vous conseille l'inline-block et la correction vous sera remise en 2 versions (inline-block et float)
+    - Note: Les coins arrondis sont obtenus avec la propriété border-radius (420-W10-SU - Programmation Web 1)

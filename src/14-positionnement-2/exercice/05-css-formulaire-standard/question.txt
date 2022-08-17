@@ -1,0 +1,10 @@
+Exercice - Formulaire usager inline
+
+Objectifs:
+    - Revoir les méthodes de positionnement CSS.
+
+Consignes:
+    - Crée le fichier css/css-formulaire-standard.css
+    - Écrire le code CSS pour obtenir le même résultat que la maquette.
+    - La présentation est centrée avec une taille fixe de 500px
+    - Vous devez utiliser le mode de positionnement CSS inline-block

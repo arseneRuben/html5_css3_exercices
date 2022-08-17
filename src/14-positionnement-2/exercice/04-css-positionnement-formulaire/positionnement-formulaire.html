@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Positionnement de formulaire</title>
+    <link rel="stylesheet" type="text/css" href="css/positionnement-formulaire.css">
+</head>
+
+<body>
+    <div class="conteneur">
+        <form>
+            <fieldset>
+                <legend>Profile</legend>
+
+                <label for="field1">
+                    <span>Nom <span class="required">*</span></span>
+                    <input type="text" class="input-field" id="field1" name="nom" value="" />
+                </label>
+
+                <label for="field2">
+                    <span>Email <span class="required">*</span></span>
+                    <input type="email" class="input-field" id="field2" name="field2" value="" />
+                </label>
+
+                <label for="field3">
+                    <span>Téléphone <span class="required">*</span></span>
+                    <input type="text" class="input-field" id="field3" name="field3" value="" />
+                </label>
+
+                <label for="field4">
+                    <span>Sujet</span>
+                    <select name="sujet" id="field4" class="select-field">
+                        <option value="rendez-vous">Rendez-vous</option>
+                        <option value="entrevue">Entrevue</option>
+                        <option value="question">Question</option>
+                    </select>
+                </label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Message</legend>
+
+                <label for="field6">
+                    <span>Message <span class="required">*</span></span>
+                    <textarea name="field6" id="field6" class="textarea-field"></textarea>
+                </label>
+
+                <input type="submit" value="Submit" />
+            </fieldset>
+        </form>
+    </div>
+</body>
+
+</html>
