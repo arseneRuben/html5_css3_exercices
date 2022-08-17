@@ -1,0 +1,48 @@
+body {
+  padding: 4px 4px;
+}
+
+header , nav, article, aside, footer {
+    margin: 4px 4px;
+    padding: 3px 3px;
+}
+header {
+    border: 2px solid rgb(143, 211, 43);
+}
+
+nav {
+    border: 2px solid yellow;
+}
+
+article {
+    border: 2px solid rgb(162, 70, 27);
+    width: 60%;
+    display: inline-block;
+
+}
+
+aside {
+    border: 2px solid black;
+    width: 35%;
+
+    float: right;
+}
+
+section {
+    border: 2px solid blue;
+    margin: 3px 3px;
+}
+
+
+footer {
+
+    position: fixed;
+    border: 2px solid rgb(143, 211, 43);
+    height: 80px;
+    bottom: 10px;
+
+    left: 10px;
+    right: 10px;;
+
+
+}

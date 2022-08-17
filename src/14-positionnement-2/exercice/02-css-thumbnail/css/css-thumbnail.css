@@ -4,6 +4,7 @@ div#gallery {
     border: 2px solid #000000;
     padding: 4px 4px;
     overflow-y: scroll;
+    height: 500px;
 }
 div#gallery>div {
     display: inline-block;
