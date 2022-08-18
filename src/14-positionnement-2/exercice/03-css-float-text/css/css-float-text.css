@@ -1,0 +1,18 @@
+main {
+    width: 60%;
+    margin: auto;
+}
+
+h1+p> img {
+    float: left;
+
+}
+
+h3+p>img {
+    float: right;
+}
+
+img {
+    width: 25%;
+    margin: 10px 10px;
+}
