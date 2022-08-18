@@ -1,0 +1,27 @@
+body {
+    width: 500px;
+    margin: auto;
+
+}
+
+form fieldset{
+    background-color: rgb(216, 216, 216);
+}
+
+form fieldset legend,input[type=submit] {
+    background-color: gray;
+    color: white;
+    padding:  10px;
+    border-color: aliceblue;
+}
+form fieldset div {
+    text-align: center;
+    padding: 15px;
+    float: right;
+    margin-right: 20%;
+}
+
+form div:last-child{
+    text-align: center;
+    margin-top: 10px;
+}
