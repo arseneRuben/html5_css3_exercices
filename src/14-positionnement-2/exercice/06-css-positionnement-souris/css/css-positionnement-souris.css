@@ -9,7 +9,7 @@ body {
     padding: 1%;
     display: inline-block;
     width: 40%;
-
+    vertical-align: top;
 }
 
 #circulaire>div>img {
